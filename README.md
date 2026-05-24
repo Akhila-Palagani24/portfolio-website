@@ -98,7 +98,7 @@ The website was deployed using Vercel for fast and reliable hosting.
 
 # 📸 Live Preview
 
-<img width="100%" src="https://portfolio-website-swart-eight-60.vercel.app/" />
+<img width="100%" src="preview.png"/>
 
 ---
 
