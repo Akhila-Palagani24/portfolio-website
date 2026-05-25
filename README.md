@@ -131,3 +131,4 @@ Through this project, I improved my understanding of:
 # ⭐ Project Status
 
 Completed ✅
+Updated README
